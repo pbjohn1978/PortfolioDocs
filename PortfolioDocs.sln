@@ -5,13 +5,6 @@ VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PortfolioDocs", "PortfolioDocs\PortfolioDocs.csproj", "{E714F435-EE71-41B3-A0D9-EA0B1F2DD3E8}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "DocumentsPort", "DocumentsPort", "{08EB73F0-8CEF-47D0-A292-C54CCDF435FC}"
-	ProjectSection(SolutionItems) = preProject
-		..\..\..\..\Desktop\JustForYouProdBasicDesign.vsdx = ..\..\..\..\Desktop\JustForYouProdBasicDesign.vsdx
-		..\..\..\..\Desktop\JustForYouPromotionsProposal.docx = ..\..\..\..\Desktop\JustForYouPromotionsProposal.docx
-		..\..\..\..\Desktop\JustForYouPromotionsTimePredictions.docx = ..\..\..\..\Desktop\JustForYouPromotionsTimePredictions.docx
-	EndProjectSection
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
