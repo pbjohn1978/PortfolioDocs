@@ -37,6 +37,7 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="Documents\JustForYouProdBasicDesign.vsdx" />
+    <None Include="Documents\justForYouPromotionsMockUp.psd" />
     <None Include="Documents\JustForYouPromotionsProposal.docx" />
     <None Include="Documents\JustForYouPromotionsTimePredictions.docx" />
   </ItemGroup>
@@ -44,6 +45,7 @@
     <Content Include="Documents\justForYouPromotionsGIF.gif" />
     <Content Include="Documents\justForYouPromotionsGIF2.gif" />
     <Content Include="Documents\justForYouPromotionsGIF3.gif" />
+    <Content Include="Documents\justForYouPromotionsMockUp.gif" />
     <Content Include="Documents\justForYouPromotionsPNG.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
