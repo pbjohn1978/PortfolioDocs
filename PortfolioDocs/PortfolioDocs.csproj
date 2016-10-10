@@ -37,6 +37,7 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="Documents\JustForYouProdBasicDesign.vsdx" />
+    <None Include="Documents\JustForYouProdDataBaseDesign.vsdx" />
     <None Include="Documents\justForYouPromotionsMockUp.psd" />
     <None Include="Documents\JustForYouPromotionsProposal.docx" />
     <None Include="Documents\JustForYouPromotionsTimePredictions.docx" />
