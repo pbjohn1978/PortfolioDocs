@@ -43,6 +43,8 @@
     <None Include="Documents\JustForYouPromotionsTimePredictions.docx" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="Documents\JustForYouDBscript.sql" />
+    <Content Include="Documents\JustForYouDummyDataScript.sql" />
     <Content Include="Documents\justForYouPromotionsGIF.gif" />
     <Content Include="Documents\justForYouPromotionsGIF2.gif" />
     <Content Include="Documents\justForYouPromotionsGIF3.gif" />
