@@ -51,7 +51,7 @@ create table Products
 	[ProductAltText]		varchar(500)	not null
 )
 
-create table Announcments
+create table Announcements
 (
 	[AnnouncmentID]				int				identity(1,1)			primary key,
 	[AnnouncmentName]			varchar(500)	not null,
